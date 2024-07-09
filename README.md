@@ -14,3 +14,6 @@ Este repositório contém uma aplicação simples em Java Swing para cadastro e 
 - **Equipe**: Classe que representa uma equipe com codinome, quantidade de membros, latitude e longitude.
 - **Janela**: Classe que define a interface gráfica da aplicação utilizando Java Swing. Implementa a funcionalidade de cadastro, listagem, limpeza e fechamento da aplicação.
 - **Main**: Classe principal que inicia a aplicação.
+
+  ## Data de desenvolvimento
+  - A aplicação foi desenvolvida em dezembro de 2023. 
